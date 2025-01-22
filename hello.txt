@@ -1,0 +1,12 @@
+                    if "chrome" in browser.lower():
+                        open_website("https://www.google.com/chrome/")
+                    elif "firefox" in browser.lower():
+                        open_website("https://www.mozilla.org/firefox/")
+                    elif "safari" in browser.lower():
+                        open_website("https://www.apple.com/safari/")
+                    elif "edge" in browser.lower():
+                        open_website("https://www.microsoft.com/edge/")
+                    elif "youtube" in browser.lower():
+                        open_website("https://www.youtube.com/")
+
+                        sk-proj-2epRZjZLxIiEJUiy0TMJT3BlbkFJEs9w6tQJkvhJwUeOoVfy
