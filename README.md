@@ -32,7 +32,7 @@ Ensure the following are installed on your system:
 
 Installation
 
-    Clone this repository:
+    Clone this repository: https://github.com/haseeb676-sir7/JarvisWeather.git
 
 git clone https://github.com/your-username/jarvis-weather-assistant.git
 cd jarvis-weather-assistant
